@@ -6,11 +6,7 @@
       "@testing-library/user-event": "^12.1.10",
       "web-vitals": "^1.0.1",
       "react-router-dom": "^5.2.0",
-      "dotenv": {
-        "version": "8.2.0",
-        "resolved": "https://registry.npmjs.org/dotenv/-/dotenv-8.2.0.tgz",
-        "integrity": "sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw=="
-      }
+      "dotenv": "^8.2.0"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
