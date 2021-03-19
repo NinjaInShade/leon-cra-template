@@ -1,4 +1,23 @@
 @import-normalize; /* bring in normalize.css styles */
+@import 'normalize.css/opinionated.css';
+
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+}
+
+:root {
+  /* Define custom colours here */
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
 
 .page-center {
   min-height: 100vh;
