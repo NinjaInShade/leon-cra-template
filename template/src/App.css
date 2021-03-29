@@ -5,23 +5,16 @@
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
+  background: none;
+  outline: none;
   margin: 0;
+  padding: 0;
 }
 
 :root {
-  /* Define custom colours here */
+  /* Define custom vars here */
 }
 
 button {
-  border: none;
-  outline: none;
-  background: none;
   cursor: pointer;
-}
-
-.page-center {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
